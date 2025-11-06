@@ -1,4 +1,4 @@
-# 🌈 Thermal Phase Shifters for Optical Linear Multipliers
+# Thermal Phase Shifters for Optical Linear Multipliers
 [![Topic](https://img.shields.io/badge/Field-Silicon%20Photonics-blue)](#)
 [![Simulation](https://img.shields.io/badge/Simulators-Lumerical%20%7C%20Ansys%20HEAT%20%7C%20FDTD%20%7C%20MODE-orange)](#)
 [![Language](https://img.shields.io/badge/Modeling-MATLAB-yellow)](#)
